@@ -1,0 +1,18 @@
+@mixin transition_effect
+{
+	transition:$transition_var;
+	-moz-transition:$transition_var;
+	-ms-transition:$transition_var;
+	-o-transition:$transition_var;
+	-webkit-transition:$transition_var;
+	
+}
+@mixin transform_effect($transform_var)
+{
+	transform:$transform_var;
+	-moz-transform:$transform_var;
+	-ms-transform:$transform_var;
+	-o-transform:$transform_var;
+	-webkit-transform:$transform_var;
+	
+}
