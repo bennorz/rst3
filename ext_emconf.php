@@ -1,7 +1,7 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Template Package',
-    'description' => 'Template Package',
+    'title' => 'Template Package RST3',
+    'description' => 'Template Package RST3',
     'category' => 'templates',
     'author' => 'brz',
     'author_email' => 'info@brz',
